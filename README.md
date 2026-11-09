@@ -5,9 +5,9 @@ Zespół: **Zespół ADA**.
 
 | Członek zespołu | Nr albumu | Rola (od 09.11.2026) |
 |---|---|---|
-| Andrzej Derewońko | [nr albumu] | Koordynator zespołu |
+| Andrzej Derewońko | 73192 | Koordynator zespołu |
 | Damian Piec | 71654 | Właściciel repozytorium i integracji |
-| Artur Adamczewski | [nr albumu] | Właściciel jakości i wiedzy |
+| Artur Adamczewski | 71596 | Właściciel jakości i wiedzy |
 
 ## Cel projektu
 
